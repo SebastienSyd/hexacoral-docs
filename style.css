@@ -35,3 +35,5 @@ h1 { font-size: 2rem; margin-top: 0.4em; }
 .muted { color: var(--muted); font-size: 0.95rem; }
 footer { text-align: center; color: var(--muted); font-size: 0.9rem; padding: 24px 16px 40px; }
 ul { padding-left: 1.2em; }
+.promise { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0 1.5rem; }
+.promise span { border: 2px solid var(--star); color: var(--star); border-radius: 999px; padding: 0.3rem 0.9rem; font-weight: 600; }
